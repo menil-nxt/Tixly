@@ -1,3 +1,4 @@
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,9 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Tixly
+
+
+- Here we are creating this Project for connecting people's through events we here in this site you can see various diffrent types of events who ever want to organize the event they just trying to fill up details regarding any events like Tech, students, Business, marketing, Companies etc.. want to organise event, just register their event through only fillup some details and is anyone want to attend that event anyone can register for their event whoever is applicable for that event.
+
